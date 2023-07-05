@@ -1,0 +1,3 @@
+﻿  FUNCIONES.cpp
+C:\Users\agust\OneDrive - frgp.utn.edu.ar\Programacion\Proyectos En C++\QUINIENTOS\QUINIENTOS\lib\rlutil.h(577,19): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  QUINIENTOS.vcxproj -> C:\Users\agust\OneDrive - frgp.utn.edu.ar\Programacion\Proyectos En C++\QUINIENTOS\QUINIENTOS\x64\Debug\QUINIENTOS.exe
